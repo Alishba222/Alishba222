@@ -5,14 +5,13 @@
 🔍 Curious mind passionate about understanding data and turning it into meaningful insights.  
 Currently learning Python, Data Analysis, and Machine Learning step by step with projects.  
 
----
+🔍 Projects
+📊 Hotel Booking Data Analysis – Exploratory Data Analysis on hotel booking data using Python, Pandas, and Seaborn. Includes detailed report.
 
-## 💼 Projects  
-- 🔧 [Quick Ping](https://github.com/Alishba222/Quick-Ping) – A Python-based project for checking website/server status using ping.
+🔧 Quick Ping – A Python-based project for checking website/server status using ping.
 
-_(More projects coming soon...)_
+More projects coming soon...
 
----
 
 ## 🚀 Skills
 
