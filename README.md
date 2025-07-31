@@ -6,6 +6,7 @@
 Currently learning Python, Data Analysis, and Machine Learning step by step with projects.  
 
 🔍 Projects
+
 📊 Hotel Booking Data Analysis – Exploratory Data Analysis on hotel booking data using Python, Pandas, and Seaborn. Includes detailed report.
 
 🔧 Quick Ping – A Python-based project for checking website/server status using ping.
