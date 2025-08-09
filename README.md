@@ -7,6 +7,10 @@ Currently learning Python, Data Analysis, and Machine Learning step by step with
 
 🔍 Projects
 
+ 🎬 Netflix Dataset Visualization
+Data visualization project on the Netflix dataset using **Python**, **Pandas**, and **Matplotlib**.  
+Includes bar charts, pie charts, histograms, scatter plots, and subplots to highlight content trends.
+
 📊 Hotel Booking Data Analysis – Exploratory Data Analysis on hotel booking data using Python, Pandas, and Seaborn. Includes detailed report.
 
 🔧 Quick Ping – A Python-based project for checking website/server status using ping.
