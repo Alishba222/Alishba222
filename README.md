@@ -1,14 +1,14 @@
 
-# 👋 Hi, I'm Alishba Naeem
+👋 Hi, I'm Alishba Naeem
 
-🎓 **BS Data Science Student** | 📊 **Aspiring Data Analyst**  
+🎓 BS Data Science Student | 📊 Aspiring Data Data Engineer
 🔍 Curious mind passionate about understanding data and turning it into meaningful insights.  
 Currently learning Python, Data Analysis, and Machine Learning step by step with projects.  
 
 🔍 Projects
 
  🎬 Netflix Dataset Visualization
-Data visualization project on the Netflix dataset using **Python**, **Pandas**, and **Matplotlib**.  
+Data visualization project on the Netflix dataset using Python, Pandas, and Matplotlib.  
 Includes bar charts, pie charts, histograms, scatter plots, and subplots to highlight content trends.
 
 📊 Hotel Booking Data Analysis – Exploratory Data Analysis on hotel booking data using Python, Pandas, and Seaborn. Includes detailed report.
@@ -18,32 +18,27 @@ Includes bar charts, pie charts, histograms, scatter plots, and subplots to high
 More projects coming soon...
 
 
-## 🚀 Skills
+🚀 Skills
 
-- 🐍 Python (Basics to Intermediate)
-- 🧮 NumPy, Pandas (Learning phase)
-- 📊 Power BI (Dashboard making, basic visuals)
-- 🗃️ SQL (Learning basic queries)
-- 📌 Data Cleaning & Exploratory Data Analysis (EDA)
-- 🤖 Learning Machine Learning (next goal!)
-- ✍️ Always improving & building real-world projects
+🐍 Python (Basics to Intermediate)
 
----
+🧮 NumPy & Pandas (Data analysis & manipulation)
 
-## 🎯 Learning Journey
+📈 Matplotlib & Seaborn (Data visualization)
 
-I'm currently on a focused learning path:  
-1. Python 
-2. NumPy & Pandas (In progress)  
-3. Matplotlib, Seaborn  
-4. Power BI  
-5. SQL + BigQuery  
-6. Scikit-learn & Machine Learning  
-7. Deep Learning & Real Projects
+📊 Tableau & Looker Studio (Interactive dashboards & reporting)
 
----
+🗃️ SQL (Basic queries & data extraction)
 
-## 📫 Let's Connect
+📌 Data Cleaning & Exploratory Data Analysis (EDA)
+
+🤖 Learning Machine Learning (Next goal 🚀)
+
+✍️ Continuously improving & building real-world projects
+
+
+
+📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/alishba-naeem-6b47582ba/)
 - 💌 Email: **alishbanaeem58@gmail.com**
@@ -51,7 +46,7 @@ I'm currently on a focused learning path:
 
 ---
 
-## 🌱 A little more about me  
+🌱 A little more about me  
 I love learning new concepts, explaining them in easy language, and building hands-on projects.  
 I believe in progress, not perfection. 💪  
 
